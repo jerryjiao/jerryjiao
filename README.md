@@ -15,27 +15,35 @@ Building AI-powered tools I wish existed — open source, agent-native, and fun 
 
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/jerryjiao/knowflow">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jerryjiao&repo=knowflow&theme=tokyonight&show_owner=false" alt="knowflow" />
-      </a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/jerryjiao/knowflow">🧠 knowflow</a></h3>
+      <p>Agent 原生 Markdown 知识库<br/>wikis · 关系图谱 · 语义搜索</p>
+      <a href="https://github.com/jerryjiao/knowflow/stargazers"><img src="https://img.shields.io/github/stars/jerryjiao/knowflow?style=flat-square&logo=github" alt="stars" /></a>
+      <img src="https://img.shields.io/github/languages/top/jerryjiao/knowflow?style=flat-square" alt="language" />
+      <a href="https://github.com/jerryjiao/knowflow/commits"><img src="https://img.shields.io/github/last-commit/jerryjiao/knowflow?style=flat-square" alt="last commit" /></a>
     </td>
-    <td width="50%">
-      <a href="https://github.com/jerryjiao/dsh-wewrite">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jerryjiao&repo=dsh-wewrite&theme=tokyonight&show_owner=false" alt="dsh-wewrite" />
-      </a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/jerryjiao/dsh-wewrite">✍️ dsh-wewrite</a></h3>
+      <p>微信公众号 AI 写作插件<br/>选题 → 写作 → 质检 → 排版 → 发草稿，一条命令搞定</p>
+      <a href="https://github.com/jerryjiao/dsh-wewrite/stargazers"><img src="https://img.shields.io/github/stars/jerryjiao/dsh-wewrite?style=flat-square&logo=github" alt="stars" /></a>
+      <img src="https://img.shields.io/github/languages/top/jerryjiao/dsh-wewrite?style=flat-square" alt="language" />
+      <a href="https://github.com/jerryjiao/dsh-wewrite/commits"><img src="https://img.shields.io/github/last-commit/jerryjiao/dsh-wewrite?style=flat-square" alt="last commit" /></a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/jerryjiao/ai-study-kit">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jerryjiao&repo=ai-study-kit&theme=tokyonight&show_owner=false" alt="ai-study-kit" />
-      </a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/jerryjiao/ai-study-kit">📚 ai-study-kit</a></h3>
+      <p>把题库变成学习循环<br/>课程 · 闪卡 · 间隔重复</p>
+      <a href="https://github.com/jerryjiao/ai-study-kit/stargazers"><img src="https://img.shields.io/github/stars/jerryjiao/ai-study-kit?style=flat-square&logo=github" alt="stars" /></a>
+      <img src="https://img.shields.io/github/languages/top/jerryjiao/ai-study-kit?style=flat-square" alt="language" />
+      <a href="https://github.com/jerryjiao/ai-study-kit/commits"><img src="https://img.shields.io/github/last-commit/jerryjiao/ai-study-kit?style=flat-square" alt="last commit" /></a>
     </td>
-    <td width="50%">
-      <a href="https://github.com/jerryjiao/ai-sitemap-generator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jerryjiao&repo=ai-sitemap-generator&theme=tokyonight&show_owner=false" alt="ai-sitemap-generator" />
-      </a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/jerryjiao/ai-sitemap-generator">🕷️ ai-sitemap-generator</a></h3>
+      <p>AI 驱动的爬虫，自动生成 SEO 优化的 sitemap<br/>免费开源</p>
+      <a href="https://github.com/jerryjiao/ai-sitemap-generator/stargazers"><img src="https://img.shields.io/github/stars/jerryjiao/ai-sitemap-generator?style=flat-square&logo=github" alt="stars" /></a>
+      <img src="https://img.shields.io/github/languages/top/jerryjiao/ai-sitemap-generator?style=flat-square" alt="language" />
+      <a href="https://github.com/jerryjiao/ai-sitemap-generator/commits"><img src="https://img.shields.io/github/last-commit/jerryjiao/ai-sitemap-generator?style=flat-square" alt="last commit" /></a>
     </td>
   </tr>
 </table>
@@ -48,15 +56,18 @@ Building AI-powered tools I wish existed — open source, agent-native, and fun 
 
 <div align="center">
   <a href="https://github.com/jerryjiao">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=jerryjiao&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jerryjiao&theme=tokyonight" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/jerryjiao">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerryjiao&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jerryjiao&theme=tokyonight" alt="Most Commit Language" />
   </a>
 </div>
 <div align="center">
+  <a href="https://github.com/jerryjiao">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jerryjiao&theme=tokyonight" alt="Repos per Language" />
+  </a>
   <a href="https://streak-stats.demolab.com">
-    <img width="70%" src="https://streak-stats.demolab.com?user=jerryjiao&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+    <img width="49%" src="https://streak-stats.demolab.com?user=jerryjiao&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </div>
 
