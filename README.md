@@ -13,40 +13,25 @@ Building AI-powered tools I wish existed — open source, agent-native, and fun 
 
 ## 🚀 Featured Projects / 精选项目
 
-<table cellspacing="16" cellpadding="0">
-<tr>
-<td width="50%" valign="top">
 <blockquote>
-<h3><a href="https://github.com/jerryjiao/knowflow">🧠 knowflow</a></h3>
-<p>Agent 原生 Markdown 知识库 · wikis · 关系图谱 · 语义搜索</p>
-<p><a href="https://github.com/jerryjiao/knowflow/stargazers"><img src="https://img.shields.io/github/stars/jerryjiao/knowflow?style=flat-square&logo=github" alt="stars" /></a><img src="https://img.shields.io/github/languages/top/jerryjiao/knowflow?style=flat-square" alt="language" /><a href="https://github.com/jerryjiao/knowflow/commits"><img src="https://img.shields.io/github/last-commit/jerryjiao/knowflow?style=flat-square&label=updated" alt="updated" /></a><img src="https://raw.githubusercontent.com/jerryjiao/jerryjiao/main/assets/pixel.png" width="410" height="1" alt="" /></p>
+<h3>🧠 <a href="https://github.com/jerryjiao/knowflow">knowflow</a> — Agent 原生 Markdown 知识库 · wikis · 关系图谱 · 语义搜索</h3>
+<p><a href="https://github.com/jerryjiao/knowflow/stargazers"><img src="https://img.shields.io/github/stars/jerryjiao/knowflow?style=flat-square&logo=github" alt="stars" /></a><img src="https://img.shields.io/github/languages/top/jerryjiao/knowflow?style=flat-square" alt="language" /><a href="https://github.com/jerryjiao/knowflow/commits"><img src="https://img.shields.io/github/last-commit/jerryjiao/knowflow?style=flat-square&label=updated" alt="updated" /></a></p>
 </blockquote>
-</td>
-<td width="50%" valign="top">
+
 <blockquote>
-<h3><a href="https://github.com/jerryjiao/dsh-wewrite">✍️ dsh-wewrite</a></h3>
-<p>微信公众号 AI 写作插件 · 选题 → 写作 → 质检 → 排版 → 发草稿</p>
-<p><a href="https://github.com/jerryjiao/dsh-wewrite/stargazers"><img src="https://img.shields.io/github/stars/jerryjiao/dsh-wewrite?style=flat-square&logo=github" alt="stars" /></a><img src="https://img.shields.io/github/languages/top/jerryjiao/dsh-wewrite?style=flat-square" alt="language" /><a href="https://github.com/jerryjiao/dsh-wewrite/commits"><img src="https://img.shields.io/github/last-commit/jerryjiao/dsh-wewrite?style=flat-square&label=updated" alt="updated" /></a><img src="https://raw.githubusercontent.com/jerryjiao/jerryjiao/main/assets/pixel.png" width="410" height="1" alt="" /></p>
+<h3>✍️ <a href="https://github.com/jerryjiao/dsh-wewrite">dsh-wewrite</a> — 微信公众号 AI 写作插件 · 选题 → 写作 → 质检 → 排版 → 发草稿</h3>
+<p><a href="https://github.com/jerryjiao/dsh-wewrite/stargazers"><img src="https://img.shields.io/github/stars/jerryjiao/dsh-wewrite?style=flat-square&logo=github" alt="stars" /></a><img src="https://img.shields.io/github/languages/top/jerryjiao/dsh-wewrite?style=flat-square" alt="language" /><a href="https://github.com/jerryjiao/dsh-wewrite/commits"><img src="https://img.shields.io/github/last-commit/jerryjiao/dsh-wewrite?style=flat-square&label=updated" alt="updated" /></a></p>
 </blockquote>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+
 <blockquote>
-<h3><a href="https://github.com/jerryjiao/ai-study-kit">📚 ai-study-kit</a></h3>
-<p>把题库变成学习循环 · 课程 · 闪卡 · 间隔重复</p>
-<p><a href="https://github.com/jerryjiao/ai-study-kit/stargazers"><img src="https://img.shields.io/github/stars/jerryjiao/ai-study-kit?style=flat-square&logo=github" alt="stars" /></a><img src="https://img.shields.io/github/languages/top/jerryjiao/ai-study-kit?style=flat-square" alt="language" /><a href="https://github.com/jerryjiao/ai-study-kit/commits"><img src="https://img.shields.io/github/last-commit/jerryjiao/ai-study-kit?style=flat-square&label=updated" alt="updated" /></a><img src="https://raw.githubusercontent.com/jerryjiao/jerryjiao/main/assets/pixel.png" width="410" height="1" alt="" /></p>
+<h3>📚 <a href="https://github.com/jerryjiao/ai-study-kit">ai-study-kit</a> — 把题库变成学习循环 · 课程 · 闪卡 · 间隔重复</h3>
+<p><a href="https://github.com/jerryjiao/ai-study-kit/stargazers"><img src="https://img.shields.io/github/stars/jerryjiao/ai-study-kit?style=flat-square&logo=github" alt="stars" /></a><img src="https://img.shields.io/github/languages/top/jerryjiao/ai-study-kit?style=flat-square" alt="language" /><a href="https://github.com/jerryjiao/ai-study-kit/commits"><img src="https://img.shields.io/github/last-commit/jerryjiao/ai-study-kit?style=flat-square&label=updated" alt="updated" /></a></p>
 </blockquote>
-</td>
-<td width="50%" valign="top">
+
 <blockquote>
-<h3><a href="https://github.com/jerryjiao/ai-sitemap-generator">🕷️ ai-sitemap-generator</a></h3>
-<p>AI 驱动的爬虫 · 自动生成 SEO 优化的 sitemap · 免费开源</p>
-<p><a href="https://github.com/jerryjiao/ai-sitemap-generator/stargazers"><img src="https://img.shields.io/github/stars/jerryjiao/ai-sitemap-generator?style=flat-square&logo=github" alt="stars" /></a><img src="https://img.shields.io/github/languages/top/jerryjiao/ai-sitemap-generator?style=flat-square" alt="language" /><a href="https://github.com/jerryjiao/ai-sitemap-generator/commits"><img src="https://img.shields.io/github/last-commit/jerryjiao/ai-sitemap-generator?style=flat-square&label=updated" alt="updated" /></a><img src="https://raw.githubusercontent.com/jerryjiao/jerryjiao/main/assets/pixel.png" width="410" height="1" alt="" /></p>
+<h3>🕷️ <a href="https://github.com/jerryjiao/ai-sitemap-generator">ai-sitemap-generator</a> — AI 驱动的爬虫 · 自动生成 SEO 优化的 sitemap · 免费开源</h3>
+<p><a href="https://github.com/jerryjiao/ai-sitemap-generator/stargazers"><img src="https://img.shields.io/github/stars/jerryjiao/ai-sitemap-generator?style=flat-square&logo=github" alt="stars" /></a><img src="https://img.shields.io/github/languages/top/jerryjiao/ai-sitemap-generator?style=flat-square" alt="language" /><a href="https://github.com/jerryjiao/ai-sitemap-generator/commits"><img src="https://img.shields.io/github/last-commit/jerryjiao/ai-sitemap-generator?style=flat-square&label=updated" alt="updated" /></a></p>
 </blockquote>
-</td>
-</tr>
-</table>
 
 <div align="center">🔍 More on <a href="https://github.com/jerryjiao?tab=repositories">my repositories</a> · 更多项目持续打磨中</div>
 
