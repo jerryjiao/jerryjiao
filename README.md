@@ -40,9 +40,9 @@ Building AI-powered tools I wish existed — open source, agent-native, and fun 
 </td>
 <td width="50%" valign="top">
 <blockquote>
-<h3><a href="https://github.com/jerryjiao/ai-sitemap-generator">🕷️ ai-sitemap-generator</a></h3>
-<p>AI 驱动的爬虫 · 自动生成 SEO 优化的 sitemap · 免费开源</p>
-<p><a href="https://github.com/jerryjiao/ai-sitemap-generator/stargazers"><img src="https://img.shields.io/github/stars/jerryjiao/ai-sitemap-generator?style=flat-square&logo=github" alt="stars" /></a><img src="https://img.shields.io/github/languages/top/jerryjiao/ai-sitemap-generator?style=flat-square" alt="language" /><a href="https://github.com/jerryjiao/ai-sitemap-generator/commits"><img src="https://img.shields.io/github/last-commit/jerryjiao/ai-sitemap-generator?style=flat-square&label=updated" alt="updated" /></a><img src="https://raw.githubusercontent.com/jerryjiao/jerryjiao/main/assets/pixel.png" width="410" height="1" alt="" /></p>
+<h3><a href="https://github.com/jerryjiao/flowtest">🧪 flowtest</a></h3>
+<p>给 Coding Agent 的自然语言浏览器测试 · Plan → Run → Report → Learn</p>
+<p><a href="https://github.com/jerryjiao/flowtest/stargazers"><img src="https://img.shields.io/github/stars/jerryjiao/flowtest?style=flat-square&logo=github" alt="stars" /></a><img src="https://img.shields.io/github/languages/top/jerryjiao/flowtest?style=flat-square" alt="language" /><a href="https://github.com/jerryjiao/flowtest/commits"><img src="https://img.shields.io/github/last-commit/jerryjiao/flowtest?style=flat-square&label=updated" alt="updated" /></a><img src="https://raw.githubusercontent.com/jerryjiao/jerryjiao/main/assets/pixel.png" width="410" height="1" alt="" /></p>
 </blockquote>
 </td>
 </tr>
