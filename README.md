@@ -19,6 +19,7 @@ Building AI-powered tools I wish existed — open source, agent-native, and fun 
 <blockquote>
 <h3><a href="https://github.com/jerryjiao/knowflow">🧠 knowflow</a></h3>
 <p>Agent 原生 Markdown 知识库 · wikis · 关系图谱 · 语义搜索</p>
+<p><sub>Agent-native Markdown knowledge base · wikis · graph · semantic search</sub></p>
 <p><a href="https://github.com/jerryjiao/knowflow/stargazers"><img src="https://img.shields.io/github/stars/jerryjiao/knowflow?style=flat-square&logo=github" alt="stars" /></a><img src="https://img.shields.io/github/languages/top/jerryjiao/knowflow?style=flat-square" alt="language" /><a href="https://github.com/jerryjiao/knowflow/commits"><img src="https://img.shields.io/github/last-commit/jerryjiao/knowflow?style=flat-square&label=updated" alt="updated" /></a><img src="https://raw.githubusercontent.com/jerryjiao/jerryjiao/main/assets/pixel.png" width="410" height="1" alt="" /></p>
 </blockquote>
 </td>
@@ -26,6 +27,7 @@ Building AI-powered tools I wish existed — open source, agent-native, and fun 
 <blockquote>
 <h3><a href="https://github.com/jerryjiao/dsh-wewrite">✍️ dsh-wewrite</a></h3>
 <p>微信公众号 AI 写作插件 · 选题 → 写作 → 质检 → 排版 → 发草稿</p>
+<p><sub>AI writing plugin for WeChat Official Accounts · topic → write → QC → format → publish</sub></p>
 <p><a href="https://github.com/jerryjiao/dsh-wewrite/stargazers"><img src="https://img.shields.io/github/stars/jerryjiao/dsh-wewrite?style=flat-square&logo=github" alt="stars" /></a><img src="https://img.shields.io/github/languages/top/jerryjiao/dsh-wewrite?style=flat-square" alt="language" /><a href="https://github.com/jerryjiao/dsh-wewrite/commits"><img src="https://img.shields.io/github/last-commit/jerryjiao/dsh-wewrite?style=flat-square&label=updated" alt="updated" /></a><img src="https://raw.githubusercontent.com/jerryjiao/jerryjiao/main/assets/pixel.png" width="410" height="1" alt="" /></p>
 </blockquote>
 </td>
@@ -35,6 +37,7 @@ Building AI-powered tools I wish existed — open source, agent-native, and fun 
 <blockquote>
 <h3><a href="https://github.com/jerryjiao/ai-study-kit">📚 ai-study-kit</a></h3>
 <p>把题库变成学习循环 · 课程 · 闪卡 · 间隔重复</p>
+<p><sub>Turn question banks into a learning loop · courses · flashcards · spaced repetition</sub></p>
 <p><a href="https://github.com/jerryjiao/ai-study-kit/stargazers"><img src="https://img.shields.io/github/stars/jerryjiao/ai-study-kit?style=flat-square&logo=github" alt="stars" /></a><img src="https://img.shields.io/github/languages/top/jerryjiao/ai-study-kit?style=flat-square" alt="language" /><a href="https://github.com/jerryjiao/ai-study-kit/commits"><img src="https://img.shields.io/github/last-commit/jerryjiao/ai-study-kit?style=flat-square&label=updated" alt="updated" /></a><img src="https://raw.githubusercontent.com/jerryjiao/jerryjiao/main/assets/pixel.png" width="410" height="1" alt="" /></p>
 </blockquote>
 </td>
@@ -42,6 +45,7 @@ Building AI-powered tools I wish existed — open source, agent-native, and fun 
 <blockquote>
 <h3><a href="https://github.com/jerryjiao/flowtest">🧪 flowtest</a></h3>
 <p>给 Coding Agent 的自然语言浏览器测试 · Plan → Run → Report → Learn</p>
+<p><sub>Natural-language browser testing for coding agents · Plan → Run → Report → Learn</sub></p>
 <p><a href="https://github.com/jerryjiao/flowtest/stargazers"><img src="https://img.shields.io/github/stars/jerryjiao/flowtest?style=flat-square&logo=github" alt="stars" /></a><img src="https://img.shields.io/github/languages/top/jerryjiao/flowtest?style=flat-square" alt="language" /><a href="https://github.com/jerryjiao/flowtest/commits"><img src="https://img.shields.io/github/last-commit/jerryjiao/flowtest?style=flat-square&label=updated" alt="updated" /></a><img src="https://raw.githubusercontent.com/jerryjiao/jerryjiao/main/assets/pixel.png" width="410" height="1" alt="" /></p>
 </blockquote>
 </td>
