@@ -4,7 +4,7 @@
 
 **AI Agents · Knowledge Tools · Frontend**
 
-把 AI 变成顺手的生产力工具，热爱开源，正在打磨一系列 Agent 应用。
+把 AI 变成生产力工具，热爱开源，正在打磨一系列 Agent 应用。
 Building AI-powered tools I wish existed — open source, agent-native, and fun to use.
 
 </div>
